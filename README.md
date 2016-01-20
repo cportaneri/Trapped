@@ -27,4 +27,5 @@ Then run Pd/binaural_engine_v1.0.pd
 2) You can download Blender GE here: https://www.blender.org/download/
 Run the Blender/Trapped_Final.blend and press P
 
+We recommand you to use headphones while playing the game, and it is optimized if it includ 3D sound.
 
