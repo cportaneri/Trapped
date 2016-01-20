@@ -22,11 +22,9 @@ Pure Data for the 3D sound.
 --- HOW TO LAUNCH THE GAME ---
 
 1) You have to download Pure Data for the 3D sound here : https://puredata.info/downloads
-
 Then run Pd/binaural_engine_v1.0.pd
 
 2) You can download Blender GE here: https://www.blender.org/download/
-
 Run the Blender/Trapped_Final.blend and press P
 
 We recommand you to use headphones while playing the game, and it is optimized if it includ 3D sound.
